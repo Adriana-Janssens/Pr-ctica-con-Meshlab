@@ -1,0 +1,24 @@
+Index HTML
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Modelo 3D - M2_T5_Adriana_Janssens</title>
+  <script type="text/javascript" src="https://www.x3dom.org/download/x3dom.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://www.x3dom.org/download/x3dom.css">
+  <style>
+    body { margin: 0; padding: 0; background: #111; color: white; text-align: center; }
+    x3d { width: 90%; height: 600px; border: none; }
+  </style>
+</head>
+<body>
+  <h1>Modelo 3D: M2_T5_Adriana_Janssens</h1>
+
+  <x3d>
+    <scene>
+      <inline url="M2_T5_Adriana_Janssens.x3d"></inline>
+    </scene>
+  </x3d>
+
+  <p>Textura: burney_relief_que
